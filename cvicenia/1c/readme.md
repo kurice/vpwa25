@@ -223,5 +223,5 @@ export default {
 </template>
 ```
 
-**Na úvod všetko**  
+**Na úvod všetko.**  
 
