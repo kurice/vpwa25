@@ -223,5 +223,5 @@ export default {
 </template>
 ```
 
-**Na úvod všetko :)**  
-[Zdrojový kód - Prvý Vue.js projekt](zdroje/MyFirstProject.zip)
+**Na úvod všetko**  
+
