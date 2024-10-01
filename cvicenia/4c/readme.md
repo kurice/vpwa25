@@ -262,7 +262,7 @@ Navyše našu triviálnu biznis logiku tvorí aj výpis do konzoly (vo webovom p
 Akciu zavoláme cez store funkciu ``dispatch`` takto:
 ```js
   ...
-  $store.dispatch('showcase/updateDrawerStateAction', val)
+  this.$store.dispatch('showcase/updateDrawerStateAction', val)
   ...
 ```
 
