@@ -3,7 +3,7 @@ V predošlej časti sme používali v Quasar projekte JavaScript. Ukážme si po
 Vytvorme si nový Quasar projekt, pričom v sprievodcovi povoľme balíčky Vuex a TypeScript (odporúčam aj ESLint, používam preset Standard), component style vyberme "Options API", package manager NPM.
 
 ```js
- quasar create [quasar-project-name]
+ npm init quasar
 ```
 
 Vytvorme nový Vuex store s názvom ``showcase`` príkazom:
