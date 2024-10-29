@@ -381,5 +381,3 @@ node ace migration:refresh --seed
 Ak nemáte, odporúčam nainštalovať si prehliadač pre SQLite databázu, napríklad [DB Browser for SQLite](https://sqlitebrowser.org/dl/). Skontrolujte štruktúru a obsah databázy, či zodpovedá tomu, čo sme krok-za-krokom vytvorili.
 
 Koniec prvej časti.
-
-**[Zdrojový kód po prvej časti - slek-server](../slek-part1.zip)**
