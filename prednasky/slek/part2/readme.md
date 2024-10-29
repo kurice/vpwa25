@@ -933,4 +933,4 @@ Týmto máme vytvorenú ukážku autentifikačného aparátu ako na klientovi, t
 
 Koniec druhej časti.
  
-**[Zdrojový kód po druhej časti - slek-server a slek-client](../slek-part2.zip)**
+**[Zdrojový kód po druhej časti - slek-server a slek-client](../../zdroje/slek-part2.zip)**
