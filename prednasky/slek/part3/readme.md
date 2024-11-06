@@ -565,7 +565,11 @@ export abstract class SocketManager implements SocketManagerContract {
 
 ### <a name="anchor32-channelservice"></a> Služby ChannelService a ChannelSocketManager
 
+<<<<<<< HEAD
 Služba `ChannelService` nám bude vytvárať a udržiavať websocket pripojenia (metóda `join`), resp. odpojenie z kanálu (metóda `leave`). V metóde `join` vytvoríme inštanciu `ChannelSocketManager`. Tento manažér sa pripája na `socket.io` namespace pre daný kanál, inicializuje poslucháča na udalosť **message** (na strane klienta) a poskytuje metódy `addMessage` a `loadMessages`:
+=======
+Služba ``ChannelService`` nám bude vytvárať a udržiavať websocket pripojenia na jednotlivé kanály (metóda ``join``), resp. odpojenie z kanálu (metóda ``leave``). V metóde ``join`` vytvoríme inštanciu ``ChannelSocketManager``. Tento manažér sa pripája na ``socket.io`` namespace pre daný kanál, inicializuje poslucháča na udalosť **message** (na strane klienta) a poskytuje metódy ``addMessage`` a ``loadMessages``:
+>>>>>>> b328d005349218d3516986628c9fb6072cf3fb13
 
 ```ts
 import { RawMessage, SerializedMessage } from "src/contracts";
