@@ -20,4 +20,4 @@
 5. Slek
    - [1. časť: vytvorenie projektov, nainštalovanie prerekvizít a vytvorenie databázových modelov](slek/part1/readme.md)
    - [2. časť: vytvorenie autentifikačného aparátu na klientovi a server API](slek/part2/readme.md), **[Zdrojový kód po druhej časti - slek-server a slek-client](zdroje/slek-part2.zip)**
-   - [3. časť: vytvorenie aparátu na posielanie správ cez websockety](slek/part3/readme.md)
+   - [3. časť: vytvorenie aparátu na posielanie správ cez websockety](slek/part3/readme.md) **[Zdrojový kód final - slek-server a slek-client](zdroje/slek-final.zip)**
